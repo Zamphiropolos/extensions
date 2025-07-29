@@ -1,11 +1,20 @@
-﻿[
+[
   {
-    "id": "LiveTV",
-    "name": "LiveTV",
-    "versionCode": 1,
-    "versionName": "1.0.0",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=mydomain.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Zamphiropolos/extensions",
+    "fileSize": 12345,
+    "status": 0,
+    "language": "es",
+    "authors": [
+      "Tito Zamphiropolos"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "LiveTV",
     "url": "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/builds/LiveTV.cs3",
-    "author": "Tito Zamphiropolos",
-    "description": "Proveedor LiveTV para CloudStream"
+    "name": "LiveTV"
   }
 ]
