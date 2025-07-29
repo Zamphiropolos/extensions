@@ -1,0 +1,11 @@
+﻿[
+  {
+    "id": "LiveTV",
+    "name": "LiveTV",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "url": "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/builds/LiveTV.cs3",
+    "author": "Tito Zamphiropolos",
+    "description": "Proveedor LiveTV para CloudStream"
+  }
+]
