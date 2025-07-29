@@ -1,8 +1,0 @@
-{
-  "name": "Tito Repo",
-  "description": "Extensiones de Tito Zamphiropolos",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Zamphiropolos/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
-  ]
-}
