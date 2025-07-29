@@ -1,6 +1,8 @@
-﻿{
+{
   "name": "Tito LiveTV Repo",
-  "description": "Solo LiveTVProvider",
+  "description": "Sólo LiveTV",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/builds/plugins.json"
+  ]
 }
