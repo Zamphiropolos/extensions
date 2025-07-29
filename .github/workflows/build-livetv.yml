@@ -1,40 +1,40 @@
-name: Build LiveTVProvider
+name: Build LiveTV
 
 on:
   push:
     branches: [ main, master ]
+    paths-ignore:
+      - '*.md'
 
 jobs:
   build-livetv:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Checkout your source code
+      # 1) Clona tu código fuente
       - name: Checkout source
         uses: actions/checkout@v3
         with:
           fetch-depth: 1
-          path: src
 
-      # 2) Setup JDK 17
+      # 2) Instala Java 17
       - name: Setup JDK 17
         uses: actions/setup-java@v3
         with:
           distribution: temurin
           java-version: '17'
 
-      # 3) Setup Android SDK
+      # 3) Instala Android SDK
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
 
-      # 4) Build only LiveTVProvider module
-      - name: Build LiveTVProvider
-        working-directory: src
+      # 4) Compila sólo el módulo LiveTV
+      - name: Build LiveTV module
         run: |
           chmod +x gradlew
-          ./gradlew LiveTVProvider:make
+          ./gradlew LiveTV:make
 
-      # 5) Checkout builds branch to publish artifacts
+      # 5) Clona la rama builds para publicar artefactos
       - name: Checkout builds branch
         uses: actions/checkout@v3
         with:
@@ -42,33 +42,32 @@ jobs:
           path: builds
           fetch-depth: 1
 
-      # 6) Clean old artifacts
+      # 6) Limpia viejos artefactos
       - name: Clean old artifacts
         run: rm -f builds/*.jar builds/repo.json || true
 
-      # 7) Copy LiveTV JAR to builds root
-      - name: Copy LiveTV jar
-        run: |
-          cp src/LiveTVProvider/build/libs/LiveTVProvider-*.jar builds/
+      # 7) Copia el JAR recién compilado al root de builds
+      - name: Copy LiveTV JAR
+        run: cp LiveTV/build/libs/LiveTV-*.jar builds/
 
-      # 8) Generate manifest repo.json
+      # 8) Genera un manifiesto mínimo (repo.json)
       - name: Write repo.json
         run: |
           cat > builds/repo.json << 'EOF'
           {
             "name": "Tito LiveTV Repo",
-            "description": "Sólo LiveTVProvider",
+            "description": "Solo LiveTV module",
             "manifestVersion": 1,
             "pluginLists": []
           }
           EOF
 
-      # 9) Commit & push to builds
+      # 9) Commit & push de vuelta a builds
       - name: Commit and push
         working-directory: builds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add *.jar repo.json
-          git commit -m "chore: publish LiveTVProvider jar" || echo "No changes to commit"
+          git commit -m "chore: publish LiveTV jar" || echo "No changes to commit"
           git push origin builds --force
