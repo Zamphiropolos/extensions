@@ -1,0 +1,74 @@
+name: Build LiveTVProvider
+
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build-livetv:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Checkout your source code
+      - name: Checkout source
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+          path: src
+
+      # 2) Setup JDK 17
+      - name: Setup JDK 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      # 3) Setup Android SDK
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      # 4) Build only LiveTVProvider module
+      - name: Build LiveTVProvider
+        working-directory: src
+        run: |
+          chmod +x gradlew
+          ./gradlew LiveTVProvider:make
+
+      # 5) Checkout builds branch to publish artifacts
+      - name: Checkout builds branch
+        uses: actions/checkout@v3
+        with:
+          ref: builds
+          path: builds
+          fetch-depth: 1
+
+      # 6) Clean old artifacts
+      - name: Clean old artifacts
+        run: rm -f builds/*.jar builds/repo.json || true
+
+      # 7) Copy LiveTV JAR to builds root
+      - name: Copy LiveTV jar
+        run: |
+          cp src/LiveTVProvider/build/libs/LiveTVProvider-*.jar builds/
+
+      # 8) Generate manifest repo.json
+      - name: Write repo.json
+        run: |
+          cat > builds/repo.json << 'EOF'
+          {
+            "name": "Tito LiveTV Repo",
+            "description": "Sólo LiveTVProvider",
+            "manifestVersion": 1,
+            "pluginLists": []
+          }
+          EOF
+
+      # 9) Commit & push to builds
+      - name: Commit and push
+        working-directory: builds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.jar repo.json
+          git commit -m "chore: publish LiveTVProvider jar" || echo "No changes to commit"
+          git push origin builds --force
