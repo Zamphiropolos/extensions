@@ -21,9 +21,9 @@
         "X-App": "di",
         "X-Version": "10/1.0.9",
         "X-Did": "d4fe97694f4deef8",
-        "X-Hash": "S3MxvU6XtbtCao8CPzA31Ugjsucqh4lRpOKUsDq26SNiBk96VYy1sY2CKL7-96MfbqCs7Q5YxBWk3H_fvtr4IlXF9_ZI_BYdmt_hRoK6Z1nbbv8QvUuOHLu98PmDy7KT30LvIYOKfpuS6OcEqZGiwDQ3cSEV1CYePAbi5kD0mlHkSc-hgJ6d9ku0bMDWs_MVqVu8S-cf6mhmYGcZ32nOd9zuPd_RuwF_qauvxHzJ7Vk7ar_ie0cJkFh6ix6cM9TJTZBqx3Fmsu6tbmV1k7-T5nvmzX2GjVntIY-eLtP_D_U8KAAQRBHoTO6nvNAt3jya_Mun_2q-lTMSLv8uaHSfNWcwde72sGjtS-SWhXXtWuKOfByA8lDfdq_p7mZazg97-F4o2epLvDVPFOr8HQ-I045d3duwluXmWYwHAS0UN5OtOfy7Zjlp3rH79WEiHPmXed6mbZwjJhmEb1j7rJ8j6Y89sAAPcLk1v8Lwrk0qikQxFTnPmzBYPWEBWZGbSt5X",
+        "X-Hash": "O3SHb4TUBmDL05PLPcjZvaeq2-OZX62x5m1jO6bJZjJ5lT9jpOT2knBcF2DMXRRATdZj0WA-Xbu3UGnnOXMmTC-gOquhdndyKeXA4e8unl-3LeJZUxc-IxKlc3vXop0mmQa_qSiv5mpI-8_WHZSfkz0JSyOqp-Rpg3EG0Q3dJaBo3Gf8T5EnFmr-jdGf9mC8fWcsT03c__sf4L91Q6F7CqXi__TXof8as86h3E8TFsFU-0U7wwTviCKlQVKErcABov3ZJEvKZRwd5NYYrMidNltl9EfNL7V-p4GrgVzhdQnalwJyjgYXgRv2eqmEOnwI7JD-vnAjhYgdnLTabwlWE7F5Ro_OAJGY4S2xXuzOi5p5wgUNN2JnLmsNuCsP7kv2Mpu3tFQHCD1nR8I7BlUh8rAFQn98OtbmkEjrq9YzQgWwfeYrgtDniY0ryArRC9qoy6rPOx-wki-r43zaH5-9B0JrtB5Bmo8-cyyD3-NHRRvGPsVKeBt4WXddH0xnEnkQ7hoQepa9j7n8lyFTqlnbJg",
         "Accept": "*/*",
-        "Accept-Encoding": "identity",
+        "Accept-Encoding": "gzip, deflate, br",
         "Connection": "Keep-Alive"
       },
       "claroandina": false,
