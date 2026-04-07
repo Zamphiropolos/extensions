@@ -9,6 +9,27 @@
                 "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978b7c2b45a99.88034419.png",
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
+
+{
+        "name": "ALF 24/7",
+        "uri": "http://tv.m3uts.xyz/stream/secure/AwRlKmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1AGtlZmV3K2D0MzH5AmL5ATL0MTIyMwusZN/28.m3u8",
+        "logo": "http://i.tvcluboficial.com/alf.png",
+        "drm_scheme": "",
+        "drm_license_uri": "",
+        "headers": {
+          "User-Agent": "Magma Player/10",
+          "X-App": "di",
+          "X-Version": "10/1.0.9",
+          "X-Did": "d4fe97694f4deef8",
+          "X-Hash": "S3MxvU6XtbtCao8CPzA31Ugjsucqh4lRpOKUsDq26SNiBk96VYy1sY2CKL7-96MfbqCs7Q5YxBWk3H_fvtr4IlXF9_ZI_BYdmt_hRoK6Z1nbbv8QvUuOHLu98PmDy7KT30LvIYOKfpuS6OcEqZGiwDQ3cSEV1CYePAbi5kD0mlHkSc-hgJ6d9ku0bMDWs_MVqVu8S-cf6mhmYGcZ32nOd9zuPd_RuwF_qauvxHzJ7Vk7ar_ie0cJkFh6ix6cM9TJTZBqx3Fmsu6tbmV1k7-T5nvmzX2GjVntIY-eLtP_D_U8KAAQRBHoTO6nvNAt3jya_Mun_2q-lTMSLv8uaHSfNWcwde72sGjtS-SWhXXtWuKOfByA8lDfdq_p7mZazg97-F4o2epLvDVPFOr8HQ-I045d3duwluXmWYwHAS0UN5OtOfy7Zjlp3rH79WEiHPmXed6mbZwjJhmEb1j7rJ8j6Y89sAAPcLk1v8Lwrk0qikQxFTnPmzBYPWEBWZGbSt5X",
+          "Accept": "*/*",
+          "Accept-Encoding": "identity",
+          "Connection": "Keep-Alive"
+        },
+        "claroandina": false,
+        "proxy": false
+      },
+            
             {
                 "name": "🟢 Eventos 2",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
