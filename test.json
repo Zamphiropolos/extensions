@@ -20,11 +20,11 @@
           "User-Agent": "Magma Player/10",
           "X-App": "di",
           "X-Version": "10/1.0.9",
-          "X-Did": "d4fe97694f4deef8",
-          "X-Hash": "S3MxvU6XtbtCao8CPzA31Ugjsucqh4lRpOKUsDq26SNiBk96VYy1sY2CKL7-96MfbqCs7Q5YxBWk3H_fvtr4IlXF9_ZI_BYdmt_hRoK6Z1nbbv8QvUuOHLu98PmDy7KT30LvIYOKfpuS6OcEqZGiwDQ3cSEV1CYePAbi5kD0mlHkSc-hgJ6d9ku0bMDWs_MVqVu8S-cf6mhmYGcZ32nOd9zuPd_RuwF_qauvxHzJ7Vk7ar_ie0cJkFh6ix6cM9TJTZBqx3Fmsu6tbmV1k7-T5nvmzX2GjVntIY-eLtP_D_U8KAAQRBHoTO6nvNAt3jya_Mun_2q-lTMSLv8uaHSfNWcwde72sGjtS-SWhXXtWuKOfByA8lDfdq_p7mZazg97-F4o2epLvDVPFOr8HQ-I045d3duwluXmWYwHAS0UN5OtOfy7Zjlp3rH79WEiHPmXed6mbZwjJhmEb1j7rJ8j6Y89sAAPcLk1v8Lwrk0qikQxFTnPmzBYPWEBWZGbSt5X",
+          "X-Did": "ad4e3738bd19b6f8",
+          "X-Hash": "DAikYJEseB1bHF88XwF43vQ6hyt4lMQ9jnxwwxHTYyUDujY_T0_1FZCoKNiG_SGuSDdi2se67kifGgvbrbCrZGJFerW89nqF1-v_9c00yyf2RU-agohhgI-40AwsbeDFiTBycBnY4xd9CoSmBjY6FMPxVZ6r5yMtCc1pN1MSVI48JqbULGGXdITANsak2EiuSP8cRqpBJ3ghScStSq452kdE_itorAaWGYDv77-1jhhyYKmft_Mjtfn78Tjb3rR53ZuYNQcsKhNqhITXMe29-TVF6jvck9bh8Qx_RZ2EuiyYwRKZO5YW14-v_iu7MUfdraf7u-F8NcZEoQm6Rg9T6dpfFy62o6wXugNJcxWQbuXpzaHClHhu_Za3ji5eXpbg9qmAiwfQp4afX3slnHzJdlB0Qs58k0rVlpRe675ui-EFbxLZvtKZ-9rolBt03UwFPxqDcCgLdY-lfmjrcO35Lg3T1V4ZS5OYWB2ekoPPYYqiR1pczGhKYEfUcExSQdQTDmtMwsl8dfS2CKQHg5hyEw",
           "Accept": "*/*",
-          "Accept-Encoding": "identity",
-          "Connection": "Keep-Alive"
+          "Accept-Encoding": "gzip, deflate, br",
+          "Connection": "keep-alive"
         },
         "claroandina": false,
         "proxy": false
