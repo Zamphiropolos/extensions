@@ -11,24 +11,24 @@
             },
 
 {
-        "name": "ALF 24/7",
-        "uri": "http://tv.m3uts.xyz/stream/secure/AwRlKmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1AGtlZmV3K2D0MzH5AmL5ATL0MTIyMwusZN/28.m3u8",
-        "logo": "http://i.tvcluboficial.com/alf.png",
-        "drm_scheme": "",
-        "drm_license_uri": "",
-        "headers": {
-          "User-Agent": "Magma Player/10",
-          "X-App": "di",
-          "X-Version": "10/1.0.9",
-          "X-Did": "ad4e3738bd19b6f8",
-          "X-Hash": "DAikYJEseB1bHF88XwF43vQ6hyt4lMQ9jnxwwxHTYyUDujY_T0_1FZCoKNiG_SGuSDdi2se67kifGgvbrbCrZGJFerW89nqF1-v_9c00yyf2RU-agohhgI-40AwsbeDFiTBycBnY4xd9CoSmBjY6FMPxVZ6r5yMtCc1pN1MSVI48JqbULGGXdITANsak2EiuSP8cRqpBJ3ghScStSq452kdE_itorAaWGYDv77-1jhhyYKmft_Mjtfn78Tjb3rR53ZuYNQcsKhNqhITXMe29-TVF6jvck9bh8Qx_RZ2EuiyYwRKZO5YW14-v_iu7MUfdraf7u-F8NcZEoQm6Rg9T6dpfFy62o6wXugNJcxWQbuXpzaHClHhu_Za3ji5eXpbg9qmAiwfQp4afX3slnHzJdlB0Qs58k0rVlpRe675ui-EFbxLZvtKZ-9rolBt03UwFPxqDcCgLdY-lfmjrcO35Lg3T1V4ZS5OYWB2ekoPPYYqiR1pczGhKYEfUcExSQdQTDmtMwsl8dfS2CKQHg5hyEw",
-          "Accept": "*/*",
-          "Accept-Encoding": "gzip, deflate, br",
-          "Connection": "keep-alive"
-        },
-        "claroandina": false,
-        "proxy": false
+      "name": "ANIMANIACS 24/7",
+      "uri": "http://tv.m3uts.xyz/stream/secure/AmxjKmDmKmR0BF4kZmNhZGt3YwR1A18kAmp1AGtlZmV4K2RmAmAxL2R3ZGV3AwDkZQqsZN/43.m3u8",
+      "logo": "http://i.tvcluboficial.com/animaniacs.png",
+      "drm_scheme": "",
+      "drm_license_uri": "",
+      "headers": {
+        "User-Agent": "Magma Player/10",
+        "X-App": "di",
+        "X-Version": "10/1.0.9",
+        "X-Did": "a373dca712764107",
+        "X-Hash": "25126QzXuLhbxvpMtI75ZeIQiohp7ULS4WBIY-niJKIUfpeA-gVnMcsG9URtU1NP_NfA9fwMXWldK9aM8PQ5e9xY67J4i1Tk1bU4w5537gDuwDfMm6Xl4UmFaN4JiLv5X5TaqouF8qPQ8rJ9oIjPZ6H8CbF3vlL-xYfpSKt1JjiKMq_0_RHtpf2O4syJEfW-UOXdsRIGljIhFRq1qkTX2oEJNBo0yURWaLMQsMi-2Z2vYTAGSBKBgcpStyI8u-t3JjZVbafYmIfa8-KIwhvmLOyWTZV5Q4eGWOY6iHUUAcnvwJmHIdHU7FcPRgk1x40W98ZdSYLHZntVDDml8GTvf7ncKN1Xunu8h0A2FalTL5zzTxdNi6YQQBPcnBjfqFxL-FtZcsxEd7nkQ6Ph9aQURXleR_2va45CDT8_1Uc5tm1R9QhqEI_0CLct8CdCE4g-3sYOp-u4oQCtcD68QWw57dLq_ijEx54dcAFZcsbE9AfRAZd7Nl2PWd1DCcX2WDXO",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity",
+        "Connection": "Keep-Alive"
       },
+      "claroandina": false,
+      "proxy": false
+    },
             
             {
                 "name": "🟢 Eventos 2",
