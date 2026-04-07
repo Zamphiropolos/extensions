@@ -1845,16 +1845,6 @@
                 }
             },
             {
-                "name": "DSPORTS+ 2",
-                "url": "https://digital-tv.net/canales/PHPS/stream/m14h0q1qqu.m3u8?user=yae",
-                "type": "NONE",
-                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "TNT Sports",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
                 "type": "CLEARKEY",
