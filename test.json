@@ -107,11 +107,11 @@
                 }
             },
             {
-                "name": "Prueba",
-                "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+                "name": "Prueba2 ",
+                "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
-                "drm_license_uri": "http://lumixtv.es/clearkey/llaves.php?id=9247",
+                "drm_license_uri": "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/main/prueba",
                 "headers": {
                     "Origin": "https://www.directvgo.com/",
                     "Referer": "https://www.directvgo.com/",
