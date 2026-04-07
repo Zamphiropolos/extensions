@@ -107,6 +107,18 @@
                 }
             },
             {
+                "name": "Prueba",
+                "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
+                "drm_license_uri": "http://lumixtv.es/clearkey/llaves.php?id=9247",
+                "headers": {
+                    "Origin": "https://www.directvgo.com/",
+                    "Referer": "https://www.directvgo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Telefe",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
                 "type": "CLEARKEY",
