@@ -10,18 +10,18 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
 
-{
-      "name": "ANIMANIACS 24/7",
-      "uri": "http://tv.m3uts.xyz/stream/secure/AmxjKmDmKmR0BF4kZmNhZGt3YwR1A18kAmp1AGtlZmV4K2RmAmAxL2R3ZGV3AwDkZQqsZN/43.m3u8",
-      "logo": "http://i.tvcluboficial.com/animaniacs.png",
+ {
+      "name": "ALF 24/7",
+      "uri": "http://tv.m3uts.xyz/stream/secure/AwRlKmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1AGtlZmV3K2D0MzH5AmL5ATL0MTIyMwusZN/28.m3u8",
+      "logo": "http://i.tvcluboficial.com/alf.png",
       "drm_scheme": "",
       "drm_license_uri": "",
       "headers": {
         "User-Agent": "Magma Player/10",
         "X-App": "di",
         "X-Version": "10/1.0.9",
-        "X-Did": "a373dca712764107",
-        "X-Hash": "25126QzXuLhbxvpMtI75ZeIQiohp7ULS4WBIY-niJKIUfpeA-gVnMcsG9URtU1NP_NfA9fwMXWldK9aM8PQ5e9xY67J4i1Tk1bU4w5537gDuwDfMm6Xl4UmFaN4JiLv5X5TaqouF8qPQ8rJ9oIjPZ6H8CbF3vlL-xYfpSKt1JjiKMq_0_RHtpf2O4syJEfW-UOXdsRIGljIhFRq1qkTX2oEJNBo0yURWaLMQsMi-2Z2vYTAGSBKBgcpStyI8u-t3JjZVbafYmIfa8-KIwhvmLOyWTZV5Q4eGWOY6iHUUAcnvwJmHIdHU7FcPRgk1x40W98ZdSYLHZntVDDml8GTvf7ncKN1Xunu8h0A2FalTL5zzTxdNi6YQQBPcnBjfqFxL-FtZcsxEd7nkQ6Ph9aQURXleR_2va45CDT8_1Uc5tm1R9QhqEI_0CLct8CdCE4g-3sYOp-u4oQCtcD68QWw57dLq_ijEx54dcAFZcsbE9AfRAZd7Nl2PWd1DCcX2WDXO",
+        "X-Did": "d4fe97694f4deef8",
+        "X-Hash": "S3MxvU6XtbtCao8CPzA31Ugjsucqh4lRpOKUsDq26SNiBk96VYy1sY2CKL7-96MfbqCs7Q5YxBWk3H_fvtr4IlXF9_ZI_BYdmt_hRoK6Z1nbbv8QvUuOHLu98PmDy7KT30LvIYOKfpuS6OcEqZGiwDQ3cSEV1CYePAbi5kD0mlHkSc-hgJ6d9ku0bMDWs_MVqVu8S-cf6mhmYGcZ32nOd9zuPd_RuwF_qauvxHzJ7Vk7ar_ie0cJkFh6ix6cM9TJTZBqx3Fmsu6tbmV1k7-T5nvmzX2GjVntIY-eLtP_D_U8KAAQRBHoTO6nvNAt3jya_Mun_2q-lTMSLv8uaHSfNWcwde72sGjtS-SWhXXtWuKOfByA8lDfdq_p7mZazg97-F4o2epLvDVPFOr8HQ-I045d3duwluXmWYwHAS0UN5OtOfy7Zjlp3rH79WEiHPmXed6mbZwjJhmEb1j7rJ8j6Y89sAAPcLk1v8Lwrk0qikQxFTnPmzBYPWEBWZGbSt5X",
         "Accept": "*/*",
         "Accept-Encoding": "identity",
         "Connection": "Keep-Alive"
