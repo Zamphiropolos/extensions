@@ -29,7 +29,16 @@
       "claroandina": false,
       "proxy": false
     },
-            
+             {
+      "name": "EL CHAVO DEL 8",
+      "uri": "https://www.youtube.com/@elchavodel8",
+      "logo": "https://yt3.googleusercontent.com/nzf1dX4rj_h4D67bsp670kY3dQiLWaw_amNQ_N5sH5bzsUkwId4xhfOUjrdhST5yaTJCRxAikA=s160-c-k-c0x00ffffff-no-rj",
+      "drm_scheme": "",
+      "drm_license_uri": "",
+      "headers": [],
+      "claroandina": false,
+      "proxy": false
+    },
             {
                 "name": "🟢 Eventos 2",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
