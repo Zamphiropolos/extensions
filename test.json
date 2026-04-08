@@ -1,65 +1,13 @@
 [
     {
-        "name": "DEPORTE INTERNACIONAL 🌎",
+        "name": "DEPORTE DE ARGENTINA 🇦🇷",
         "samples": [
             {
-                "name": "DirecTV tito",
-                "url": "http://38.199.6.1:17001/play/a0d0/index.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/699b1898db6a85.26596940.jpg"
-            },
-            {
-                "name": "DSports2",
-                "url": "http://79.143.17.114:9090/278976_.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/699b1898db6a85.26596940.jpg"
-            },
-            {
-                "name": "DSports+",
-                "url": "http://38.199.6.1:17001/play/a0vx/index.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/699b1898db6a85.26596940.jpg"
-            },
-            {
-                "name": "Telemundo Deportes",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
+                "name": "ESPN Premium",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/699b1a99e50124.13329627.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=0a650504ba2f3f849c290b66a425f2d9&key=f9809d1b37c6eded90b4f5fbcc7eda26"
-            },
-            {
-                "name": "Bein Sports 1",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6994abe0f2b255.98762982.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=335dad778109954503dcbb21dc92015f&key=24bfd75d436cbf73168a2a2dccd40281"
-            },
-            {
-                "name": "Bein Sports 2",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6994ac215ac413.65866174.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=0b42be2664d7e811d04f3e504e0924c5&key=ae24090123b8c72ac5404dc152847cb8"
-            },
-            {
-                "name": "Bein Sports 3",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6994ac603efb42.41067275.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=7995c724a13748ed970840a8ab5bb9b3&key=67bdaf1e2175b9ff682fcdf0e2354b1e"
-            },
-            {
-                "name": "Bein Sport Extra",
-                "url": "http://104.238.222.251:9090/279422_.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6994aca66f9773.49476544.jpg"
-            },
-            {
-                "name": "Golf Channel",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channel.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6979002e36dea4.99571181.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=38d6226b7cd2cfa86b4b9cdaa455e7d7&key=24f0ef2bf787647cc02df870417eed2b",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978bb222884d8.23229625.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
@@ -67,186 +15,277 @@
                 }
             },
             {
-                "name": "NBA",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
+                "name": "SPORTS",
+                "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkWiWd8vYFVFueySzA9YNrFBd3CvrtdEBYw&s",
-                "drm_license_uri": "https://results.femon.net/?keyid=d0c38de3c9844e4e9f975dffb3eff8ad&key=141ca0fdf6ebadfa7107576b8e09e117",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
+                "drm_license_uri": "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/main/prueba",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar/",
+                    "Origin": "https://www.directvgo.com/",
+                    "Referer": "https://www.directvgo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SPORTS2",
+                "url": "https://digital-tv.net/canales/PHPS/stream/ukulele.m3u8?user=yae",
+                "type": "CLEARKEY",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://www.directvgo.com/",
+                    "Referer": "https://www.directvgo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DSPORTS 2",
+                "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879025912",
+                "drm_license_uri": "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/main/prueba2",
+                "headers": {
+                    "Origin": "https://www.directvgo.com/",
+                    "Referer": "https://www.directvgo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DSPORTS 2 OP 2",
+                "url": "https://digital-tv.net/canales/PHPS/stream/mahurala.m3u8?user=yae",
+                "type": "NONE",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879025912",
+                "drm_license_uri": "",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DSPORTS+ 1",
+                "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
+                "drm_license_uri": "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/main/prueba3",
+                "headers": {
+                    "Origin": "https://www.directvgo.com/",
+                    "Referer": "https://www.directvgo.com/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TNT Sports",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c6d55af4d0.46185257.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
-                "name": "Basquet TV",
-                "url": "https://aca-live1-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd",
+                "name": "TyC Sports",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978ffd430d3b5.14745142.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=3377df9a3e3ce7735793541deb49657a&key=df55b7df0f5d3fdb34ff56977aa7339d"
-            },
-            {
-                "name": "Dazn Fast",
-                "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/697927aaa5c6d1.74120251.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=8bcec6b31cc9edcb6768ab26548e22c3&key=e3c5b07328894c33734a4de6ae55a87f",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c5b29632d3.07094599.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
                 "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },
             {
-                "name": "HBO Boxeo",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd",
+                "name": "TyC Sports Internacional",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://i.ibb.co.com/hBDRkbp/hboxing.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=a4b2fe10c9d62d32220e8ea2dceda6f9&key=e6e1173c892f7fbd60a37a76a78935cb"
-            },
-            {
-                "name": "UFC",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=a49085f8da5e65af1efff0edac830b1f&key=4659bc58a85c062e3fe0c039a446fe47"
-            },
-            {
-                "name": "VIX Tudn",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6979004f56b112.18870131.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48"
-            },
-            {
-                "name": "Telemundo Deporte",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(telemundodeportes)/master.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=300b58dfdaf35e8537ce25c39e99aec7&key=6fc107a6f62f39da27b36ff079d7f937"
-            },
-            {
-                "name": "TUDN",
-                "url": "https://aca-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/5XFLRVY0/TUDN-LOGO-COLOR.png",
-                "drm_license_uri": "https://results.femon.net/?keyid=2722647f77b44824c432a3c4555830a2&key=1734befb82f4b438bd84195f6c212e7b"
-            },
-            {
-                "name": "Barca TV",
-                "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/697928e248d135.77252478.png"
-            },
-            {
-                "name": "Bein Sports Extra Ñ",
-                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-            },
-            {
-                "name": "Danz F1",
-                "url": "http://xcm.budtv-ultra.com:9090/278826_.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/69792797b73108.59038626.png"
-            },
-            {
-                "name": "Dazn Ringside",
-                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/697927c00c8d58.09125879.png"
-            },
-            {
-                "name": "Fifa+",
-                "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png"
-            },
-            {
-                "name": "Fox Tubi",
-                "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/69790078e92ce2.82202045.png"
-            },
-            {
-                "name": "Fuel TV",
-                "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-                "type": "HLS",
-                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg"
-            },
-            {
-                "name": "Glory Kickboxing",
-                "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg"
-            },
-            {
-                "name": "Inter 24/7",
-                "url": "https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0165/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3519342e-d891-46ef-923e-27b698550a13.jpeg"
-            },
-            {
-                "name": "L1 Max",
-                "url": "http://38.199.6.1:17001/play/a0ce/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/xKjXb8p5/image-LIGA-1-MAX-fabe3155b8.png"
-            },
-            {
-                "name": "P.F.L. MMA",
-                "url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg"
-            },
-            {
-                "name": "Racer International",
-                "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg"
-            },
-            {
-                "name": "Rally TV",
-                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-                "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg",
-                "type": "HLS"
-            },
-            {
-                "name": "Red Bull TV",
-                "url": "https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg"
-            },
-            {
-                "name": "Real Madrid TV",
-                "url": "https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/57/Real_emblem_6.png"
-            },
-            {
-                "name": "Tenis",
-                "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6979009e864eb6.34730223.png"
-            },
-            {
-                "name": "Top Barca",
-                "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg"
-            },
-            {
-                "name": "World Billiards TV",
-                "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png"
-            },
-            {
-                "name": "Paramount+",
-                "url": "https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=paramountplus1",
-                "type": "HLS",
-                "icono": "https://i.postimg.cc/XvvDS4J8/paramount-plus.webp",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c5c0a06ec9.25525136.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=58e1ebe75d944f6a98ea67b1c7c0a572&key=1c311b069dbce31ce8e62a6e7e2433eb",
                 "headers": {
-                    "Referer": "https://streamrdc.xyz/",
-                    "User-Agent": "2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4"
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c5ccd8ae61.11140511.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c5d7bc6a05.35176456.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 3",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c5e359fa50.60071953.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 4",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c5ee0ae933.63692609.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 5",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c5f934f961.30581665.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 6",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c604627ee8.92720047.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 7",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c60f47e531.76585445.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX Sports",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c61b50bc35.05210382.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX Sports 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c629c389e9.04165550.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX Sports 3",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c635d07033.80975205.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "America Sports",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c6427eee32.71959456.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Show Sports Cordoba",
+                "url": "https://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_C/Show_Sports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c64ea0b234.86960303.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PX Sports",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c65d252480.57720661.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=9393321daef1463fc7e2e060298db852&key=be6bc91e17816f67e62596bed463c5ad",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Claro Sports",
+                "url": "https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c6688973a8.55589180.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
+                "name": "Sensa Deportes",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978c676045ca7.81976296.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=bad94ad091751a8adf0369f80ca83d17&key=be43a68903a920561dc14daf19229d97",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             }
         ]
