@@ -9,36 +9,6 @@
                 "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/6978b7c2b45a99.88034419.png",
                 "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             },
-
- {
-      "name": "ALF 24/7",
-      "uri": "http://tv.m3uts.xyz/stream/secure/AmR3KmZ3AI8kBQRhBGDhZwRjYwR3ZI8kAmp1AwNmAmLmK2SxATHmAmZ4LzDkBJV2MwusZN/375.m3u8",
-      "logo": "http://i.tvcluboficial.com/alf.png",
-      "drm_scheme": "",
-      "drm_license_uri": "",
-      "headers": {
-        "User-Agent": "Magma Player/10",
-        "X-App": "di",
-        "X-Version": "10/1.0.9",
-        "X-Did": "ad4e3738bd19b6f8",
-        "X-Hash": "O3SHb4TUBmDL05PLPcjZvaeq2-OZX62x5m1jO6bJZjJ5lT9jpOT2knBcF2DMXRRATdZj0WA-Xbu3UGnnOXMmTC-gOquhdndyKeXA4e8unl-3LeJZUxc-IxKlc3vXop0mmQa_qSiv5mpI-8_WHZSfkz0JSyOqp-Rpg3EG0Q3dJaBo3Gf8T5EnFmr-jdGf9mC8fWcsT03c__sf4L91Q6F7CqXi__TXof8as86h3E8TFsFU-0U7wwTviCKlQVKErcABov3ZJEvKZRwd5NYYrMidNltl9EfNL7V-p4GrgVzhdQnalwJyjgYXgRv2eqmEOnwI7JD-vnAjhYgdnLTabwlWE7F5Ro_OAJGY4S2xXuzOi5p5wgUNN2JnLmsNuCsP7kv2Mpu3tFQHCD1nR8I7BlUh8rAFQn98OtbmkEjrq9YzQgWwfeYrgtDniY0ryArRC9qoy6rPOx-wki-r43zaH5-9B0JrtB5Bmo8-cyyD3-NHRRvGPsVKeBt4WXddH0xnEnkQ7hoQepa9j7n8lyFTqlnbJg",
-        "Accept": "*/*",
-        "Accept-Encoding": "identity",
-        "Connection": "Keep-Alive"
-      },
-      "claroandina": false,
-      "proxy": false
-    },
-             {
-      "name": "EL CHAVO DEL 8",
-      "uri": "https://www.youtube.com/@elchavodel8",
-      "logo": "https://yt3.googleusercontent.com/nzf1dX4rj_h4D67bsp670kY3dQiLWaw_amNQ_N5sH5bzsUkwId4xhfOUjrdhST5yaTJCRxAikA=s160-c-k-c0x00ffffff-no-rj",
-      "drm_scheme": "",
-      "drm_license_uri": "",
-      "headers": [],
-      "claroandina": false,
-      "proxy": false
-    },
             {
                 "name": "🟢 Eventos 2",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
