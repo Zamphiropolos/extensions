@@ -1,65 +1,20 @@
 [
-    {
-        "name": "DEPORTE DE ARGENTINA 🇦🇷",
-        "samples": [
-            {
-                "name": "SPORTS",
-                "url": "aPYFT85sNuBp5KAZa4AZ7Vc8sy86bDr/DcRwQhgHORjdlT713zWiBjJMwWkiX/SGd68XwB4y6Fq7EHt3OTxa1adzKBLjE+HZByhgR0sqn+t+5bFLhTuIiZE/jgb3pdCeN1mLmcun27d9Q1m/eOkhtcmCTmv8N31TzeYfUAvUi6E=",
-                "type": "CLEARKEY",
-                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
-                "drm_license_uri": "vqSRBMEFrZYkjEMtH/1+x3s7WDKJsA2lICHyzFBh1sVbpuuMNTLE/OqNst6OWg2Iv3Y6E1+kU+SWxVwHu7HU/fiwEFYrd63Sgh3x0tYv68BKAN2uRI9kcvu0mcxuAKk8",
-                "headers": {
-                    "Origin": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "Referer": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0KqQFHk/4Pl+ROrC79EtD2hAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
-                "name": "SPORTS2",
-                "url": "i4ChaISvfR6An9d+xY4vI4jKDN1dp6NRFkSFMVtDspL8sDRokwlhn31z16rStv4V56pPvORK5SvKzdSB5hEUtWKF2NXAFvvpml+Af7qKLtQ=",
-                "type": "CLEARKEY",
-                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "Referer": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0KqQFHk/4Pl+ROrC79EtD2hAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
-                "name": "DSPORTS 2",
-                "url": "aPYFT85sNuBp5KAZa4AZ7Vc8sy86bDr/DcRwQhgHORjdlT713zWiBjJMwWkiX/SGi/RY/HKec7g7WDGu8evQFw98TRKcVvRISCEf2dtH4vc2FVayXWp7v8C9WN7vTpevU7QP+GGQDTT5aIQ6dJSyLMmCTmv8N31TzeYfUAvUi6E=",
-                "type": "CLEARKEY",
-                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879025912",
-                "drm_license_uri": "vqSRBMEFrZYkjEMtH/1+x3s7WDKJsA2lICHyzFBh1sVbpuuMNTLE/OqNst6OWg2Iv3Y6E1+kU+SWxVwHu7HU/fiwEFYrd63Sgh3x0tYv68CQqUgXGhFgcopf/tTGuW98",
-                "headers": {
-                    "Origin": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "Referer": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0IjSvJZPi9RQ0/Fkjo35L8PAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
-                "name": "DSPORTS 2 OP 2",
-                "url": "i4ChaISvfR6An9d+xY4vI4jKDN1dp6NRFkSFMVtDspKjtzAkcvV9c4eP5imJBEkKazc+qEQp7JomXPzoKr1CvgOtkzDpOU3vrt23IcdyFjs=",
-                "type": "NONE",
-                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879025912",
-                "drm_license_uri": "",
-                "headers": {
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0IjSvJZPi9RQ0/Fkjo35L8PAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            },
-            {
-                "name": "DSPORTS+ 1",
-                "url": "aPYFT85sNuBp5KAZa4AZ7Vc8sy86bDr/DcRwQhgHORjdlT713zWiBjJMwWkiX/SGVmkyl95NKZVBZ6TgrUc4vEpjPHDmlrfZi7rSuQP5C9lR6ogolT266I3/HiN18jbnpgwIdY4MqmKquxxOwpp1pcmCTmv8N31TzeYfUAvUi6E=",
-                "type": "CLEARKEY",
-                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1771879609043",
-                "drm_license_uri": "vqSRBMEFrZYkjEMtH/1+x3s7WDKJsA2lICHyzFBh1sVbpuuMNTLE/OqNst6OWg2Iv3Y6E1+kU+SWxVwHu7HU/fiwEFYrd63Sgh3x0tYv68CxCdR7uNYsMBaOWPLcX3in",
-                "headers": {
-                    "Origin": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "Referer": "+wi3XT2cb3nVkR6c51cACJk4dVezupjfb3ZOZBLh5vc=",
-                    "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0IjSvJZPi9RQ0/Fkjo35L8PAKjz2Jyt7kVe2uJi7Nu5Aw=="
-                }
-            }
-        ]
-    }
+  {
+    "name": "PRUEBAS PREMIUM",
+    "samples": [
+      {
+        "name": "HJYUJGYVGHK",
+        "url": "http://cdsr.higoesutn.com/live/cyx_7E39B128CF5D4852846A9A2.m3u8",
+        "type": "HLS",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "headers": {
+          "Content-Auth": "sign_type=cfl&client_ip=2803:2a00:2c13:e095:bdb3:f5d5:d515:3524&app_id=com.android.msandroid&user_id=846035816&session_id=Tu0LRLzMOWW&app_ver=43404&auth_id=846035816_com.android.msandroid__0&link=cf&main_addr=http://cdsr.higoesutn.com/v3/youshi/&dev_id=9aa1eb82&spared_addr=&media_encrypted=0&expired=1768173057&tag=free&check_play_ip=true&token=47ED5E794EFA5D9EB9EEE0C1551BCAB6&sign2_method=sign_o3&instance=0&start_moment=1768158704253&sign2=c0cf576e61a2a488d3072e5f1ac10b1f",
+          "Content-License": "app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_7E39B128CF5D4852846A9A2&expired=1768760294&token=6D79BD590206C8AC77972EC55698AF38",
+          "User-Agent": "Ranger/4.7.12-41fa6656",
+          "X-Buffer": "10858000000",
+          "Pragma": "akamai-x-cache-on"
+        }
+      }
+    ]
+  }
 ]
