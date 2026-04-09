@@ -4,14 +4,14 @@
     "samples": [
       {
         "name": "HJYUJGYVGHK",
-        "url": "http://cdsr.higoesutn.com/live/cyx_7E39B128CF5D4852846A9A2.m3u8",
+        "url": "http://cdsr.higoesutn.com/live/cyx_0143518877477436159145513898.m3u8",
         "type": "HLS",
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
         "headers": {
-          "Content-Auth": "sign_type=cfl&client_ip=2803:2a00:2c13:e095:bdb3:f5d5:d515:3524&app_id=com.android.msandroid&user_id=846035816&session_id=Tu0LRLzMOWW&app_ver=43404&auth_id=846035816_com.android.msandroid__0&link=cf&main_addr=http://cdsr.higoesutn.com/v3/youshi/&dev_id=9aa1eb82&spared_addr=&media_encrypted=0&expired=1768173057&tag=free&check_play_ip=true&token=47ED5E794EFA5D9EB9EEE0C1551BCAB6&sign2_method=sign_o3&instance=0&start_moment=1768158704253&sign2=c0cf576e61a2a488d3072e5f1ac10b1f",
-          "Content-License": "app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_7E39B128CF5D4852846A9A2&expired=1768760294&token=6D79BD590206C8AC77972EC55698AF38",
-          "User-Agent": "Ranger/4.7.12-41fa6656",
-          "X-Buffer": "10858000000",
+          "Content-Auth": "spared_addr=&sign_type=cfl&main_addr=http://cdsr.higoesutn.com/v3/youshi/&link=cf&media_encrypted=0&user_id=770417896&dev_id=c4f201af&session_id=Reiyf9n24RW9&client_ip=181.94.210.171&auth_id=770417896_com.android.msandroid__0&app_id=com.android.msandroid&app_ver=49902&expired=1775708345&tag=free&check_play_ip=true&token=2DAE3007D6677C13726344C913D82C01&sign2_method=sign_o3&instance=0&start_moment=1775697433014&sign2=c75b8742d870c8573f85f384c731a7bf",
+          "Content-License": "app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_0143518877477436159145513898&expired=1775838827&token=A8D98828C1D53AA6DBAE40049F9F9B90",
+          "User-Agent": "Ranger/4.9.4-17294ac0",
+          "X-Buffer": "4577999956",
           "Pragma": "akamai-x-cache-on"
         }
       }
