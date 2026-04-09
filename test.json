@@ -1,18 +1,26 @@
-{
-  "name": "CANAL TEST SIN PUERTO",
-  "url": "http://cdsr.higoesutn.com/live/cyx_0143518877477436159145513898.m3u8",
-  "type": "HLS",
-  "headers": {
-    "App": "com.android.msandroid",
-    "App-Version": "49902",
-    "Connection": "Keep-Alive",
-    "Content-Auth": "spared_addr=&sign_type=cfl&main_addr=http://cdsr.higoesutn.com/v3/youshi/&link=cf&media_encrypted=0&user_id=770417896&dev_id=c4f201af&session_id=Reiyf9n24RW9&client_ip=181.94.210.171&auth_id=770417896_com.android.msandroid__0&app_id=com.android.msandroid&app_ver=49902&expired=1775708345&tag=free&check_play_ip=true&token=2DAE3007D6677C13726344C913D82C01&sign2_method=sign_o3&instance=0&start_moment=1775697433014&sign2=c75b8742d870c8573f85f384c731a7bf",
-    "Content-License": "app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_0143518877477436159145513898&expired=1775838827&token=A8D98828C1D53AA6DBAE40049F9F9B90",
-    "Host": "cdsr.higoesutn.com",
-    "Pragma": "akamai-x-cache-on",
-    "Ranger-Id": "5c-oCEBZqtNF7G9UokFVzFtuOuEABmGDxK",
-    "User-Agent": "Ranger/4.9.4-17294ac0",
-    "X-Buffer": "0",
-    "Accept": "*/*"
+[
+  {
+    "name": "PRUEBA 410 FIX",
+    "samples": [
+      {
+        "name": "CANAL TEST SIN PUERTO",
+        "url": "http://cdsr.higoesutn.com/live/cyx_0143518877477436159145513898.m3u8",
+        "type": "HLS",
+        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+        "headers": {
+          "App": "com.android.msandroid",
+          "App-Version": "49902",
+          "Connection": "Keep-Alive",
+          "Content-Auth": "spared_addr=&sign_type=cfl&main_addr=http://cdsr.higoesutn.com/v3/youshi/&link=cf&media_encrypted=0&user_id=770417896&dev_id=c4f201af&session_id=Reiyf9n24RW9&client_ip=181.94.210.171&auth_id=770417896_com.android.msandroid__0&app_id=com.android.msandroid&app_ver=49902&expired=1775708345&tag=free&check_play_ip=true&token=2DAE3007D6677C13726344C913D82C01&sign2_method=sign_o3&instance=0&start_moment=1775697433014&sign2=c75b8742d870c8573f85f384c731a7bf",
+          "Content-License": "app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_0143518877477436159145513898&expired=1775838827&token=A8D98828C1D53AA6DBAE40049F9F9B90",
+          "Host": "cdsr.higoesutn.com",
+          "Pragma": "akamai-x-cache-on",
+          "Ranger-Id": "5c-oCEBZqtNF7G9UokFVzFtuOuEABmGDxK",
+          "User-Agent": "Ranger/4.9.4-17294ac0",
+          "X-Buffer": "0",
+          "Accept": "*/*"
+        }
+      }
+    ]
   }
-}
+]
