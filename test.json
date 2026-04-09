@@ -1,8 +1,8 @@
 [
   {
-    "name": "PRUEBA 410 FIX",
+    "name": "PRUEBA FINAL HEADERS",
     "samples": [
-      {
+        {
         "name": "CANAL TEST SIN PUERTO",
         "url": "http://cdsr.higoesutn.com/live/cyx_0143518877477436159145513898.m3u8",
         "type": "HLS",
