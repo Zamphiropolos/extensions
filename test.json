@@ -12,7 +12,10 @@
           "Content-License": "app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_0143518877477436159145513898&expired=1775838827&token=A8D98828C1D53AA6DBAE40049F9F9B90",
           "User-Agent": "Ranger/4.9.4-17294ac0",
           "X-Buffer": "4577999956",
-          "Pragma": "akamai-x-cache-on"
+          "Host": "cdsr.higoesutn.com:80",
+          "Pragma": "akamai-x-cache-on",
+          "Ranger-Id": "5c-oCEBZqtNF7G9UokFVzFtuOuEABmGDxK",
+          "X-Buffer": "0"
         }
       }
     ]
