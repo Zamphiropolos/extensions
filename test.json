@@ -58,6 +58,30 @@
       },
       "claroandina": false,
       "proxy": false
+    },
+      {
+      "name": "ESPN",
+      "uri": "https://chromecast.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+      "logo": "https://cdn.mitvstatic.com/channels/ar_espn_m.png",
+      "drm_scheme": "clearkey",
+      "drm_license_uri": "0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d",
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Language": "es-419,es;q=0.9,en;q=0.8",
+        "Connection": "keep-alive",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "cross-site",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjdXN0b21lcklkIjoiMzYzODY5NyIsImV4cCI6MTc3NjAzMTIwNiwiYWNjb3VudElkIjoiNjc2MjA4NCIsInJlZ2lvbklkIjoiMjIyIiwiZGV2aWNlIjp7ImRldmljZUlkIjoiODg3ODY0NTMiLCJkZXZpY2VUeXBlIjoiY2xvdWRfY2xpZW50IiwiaXBBZGRyZXNzIjoiIiwiZGV2aWNlTmFtZSI6IldFQihMaW51eCB4ODZfNjQpIiwibWFjQWRkcmVzcyI6IjJDQUQxMTExMDVBMiIsInNlcmlhbE51bWJlciI6IiIsInN0YXR1cyI6IkEiLCJ1dWlkIjoiMkNBRDExMTEwNUEyODBERTVFNUVBN0FFM0E4QzhFM0EifSwiZGV2aWNlVGFncyI6W119.CisGJHUnfWX-ac9rcSYtbCfJVEOyQ8GKxdLc77iEcnE"
+      },
+      "claroandina": false,
+      "proxy": false
     }
     ]
   }
