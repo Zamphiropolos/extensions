@@ -60,7 +60,7 @@
       "proxy": false
     },
       {
-      "name": "ESPN",
+      "name": "ESPN t",
       "uri": "https://chromecast.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
       "logo": "https://cdn.mitvstatic.com/channels/ar_espn_m.png",
       "drm_scheme": "clearkey",
