@@ -64,7 +64,7 @@
       "uri": "https://chromecast.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
       "logo": "https://cdn.mitvstatic.com/channels/ar_espn_m.png",
       "drm_scheme": "clearkey",
-      "drm_license_uri": "3e6db98d9df4747108bd896cba0be57d:0aab4bd18144c7316c35c74ccce96ddc",
+      "drm_license_uri": "https://raw.githubusercontent.com/Zamphiropolos/extensions/refs/heads/main/prueba_4",
       "headers": {
         "Accept": "*/*",
         "Accept-Language": "es-419,es;q=0.9,en;q=0.8",
