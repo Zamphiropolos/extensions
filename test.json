@@ -1,26 +1,21 @@
 [
-  {
-    "name": "PRUEBA FINAL HEADERS",
-    "samples": [
-        {
-        "name": "CANAL TEST SIN PUERTOss",
-        "url": "http://cdsr.higoesutn.com/live/cyx_CxjXGf9L3WdXLpBBP.m3u8",
-        "type": "HLS",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+    {
+        "name": "ALF 24/7",
+        "uri": "http://tv.m3uts.xyz/stream/secure/AmHkKmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1BGD1AwV5K2Z1LGp5AGHmZzSuBQL2AmOsZN/28.m3u8",
+        "logo": "http://i.tvcluboficial.com/alf.png",
+        "drm_scheme": "",
+        "drm_license_uri": "",
         "headers": {
-          "App": "com.android.msandroid",
-          "App-Version": "49902",
-          "Connection": "Keep-Alive",
-          "Content-Auth": "link=cf&client_ip=181.94.210.171&user_id=770417896&sign_type=cfl&dev_id=c4f201af&app_ver=49902&session_id=ogPS25BaLzn0&auth_id=770417896_com.android.msandroid__0&media_encrypted=0&main_addr=http://cdsr.higoesutn.com/v3/youshi/&spared_addr=&app_id=com.android.msandroid&expired=1775723337&tag=free&check_play_ip=true&token=7C6D4AF85744110ECF0610BEB2219E0A&sign2_method=sign_o3&instance=0&start_moment=1775709023016&sign2=6e8b917040a3fc382371ff26b0b85812",
-          "Content-License": "app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_CxjXGf9L3WdXLpBBP&expired=1775838827&token=B914E876A8ED43108BE4DC34B06F6082",
-          "Host": "cdsr.higoesutn.com",
-          "Pragma": "akamai-x-cache-on",
-          "Ranger-Id": "63RdCr4NlWi6Ymbv9_6CB6WzR0TqtYTztY",
-          "User-Agent": "Ranger/4.9.4-17294ac0",
-          "X-Buffer": "0",
-          "Accept": "*/*"
-        }
-      }
-    ]
-  }
+            "User-Agent": "Magma Player/10",
+            "X-App": "di",
+            "X-Version": "10/1.0.9",
+            "X-Did": "c5a795532aa86670",
+            "X-Hash": "Co5BA6OqY13N3ijBvpeyBcOBoS2X-EK10TKD8zaJ-eQtmypW-TO-8hYReHlZhjrkk4lv7ncg1N-84bzkjo3uMIuV6_rb7Z0g_1ctPRsH19_oZRU_MHgdLZbKvBkCftd8qRG4ypjEaMGiMIsugv-3P_-HvDrD0V49sxv4U4I_J-Yzlb7Zpc1dbCfg9tZVtyH_zPEyScQKevykub0PCoOhLSxalL0jgbSWRYrkDWIjw0uudLOKxdaaVnTzZblwuWMvojKMHfmuGN7ZTKnPJ-hhCguO00bF-qlSQTajeb4oqsL9L5shzL743naaAvIh-zUXyKVAemIuUVc7bwYpYPUe43-wL_u3x-ZDkOZq4xgXV5TQgK-FKevmk03jeDzspmplQivjRLb7erCG1FbUSuftB1CuHNT_prypISnWxYb5QGfifdZlnkTtI4YrF-rbUZQRPWRu5FCvHlyDniEH_4MVC6zEymk_QgbogQmsEOrginjDS0xOUEjG6t_74bH7QLo1",
+            "Accept": "*/*",
+            "Accept-Encoding": "identity",
+            "Connection": "Keep-Alive"
+        },
+        "claroandina": false,
+        "proxy": false
+    }
 ]
