@@ -1,21 +1,21 @@
 [
-    {
-        "name": "ALF 24/7",
-        "uri": "http://tv.m3uts.xyz/stream/secure/AmHkKmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1BGD1AwV5K2Z1LGp5AGHmZzSuBQL2AmOsZN/28.m3u8",
-        "logo": "http://i.tvcluboficial.com/alf.png",
-        "drm_scheme": "",
-        "drm_license_uri": "",
-        "headers": {
-            "User-Agent": "Magma Player/10",
-            "X-App": "di",
-            "X-Version": "10/1.0.9",
-            "X-Did": "c5a795532aa86670",
-            "X-Hash": "Co5BA6OqY13N3ijBvpeyBcOBoS2X-EK10TKD8zaJ-eQtmypW-TO-8hYReHlZhjrkk4lv7ncg1N-84bzkjo3uMIuV6_rb7Z0g_1ctPRsH19_oZRU_MHgdLZbKvBkCftd8qRG4ypjEaMGiMIsugv-3P_-HvDrD0V49sxv4U4I_J-Yzlb7Zpc1dbCfg9tZVtyH_zPEyScQKevykub0PCoOhLSxalL0jgbSWRYrkDWIjw0uudLOKxdaaVnTzZblwuWMvojKMHfmuGN7ZTKnPJ-hhCguO00bF-qlSQTajeb4oqsL9L5shzL743naaAvIh-zUXyKVAemIuUVc7bwYpYPUe43-wL_u3x-ZDkOZq4xgXV5TQgK-FKevmk03jeDzspmplQivjRLb7erCG1FbUSuftB1CuHNT_prypISnWxYb5QGfifdZlnkTtI4YrF-rbUZQRPWRu5FCvHlyDniEH_4MVC6zEymk_QgbogQmsEOrginjDS0xOUEjG6t_74bH7QLo1",
-            "Accept": "*/*",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
-        },
-        "claroandina": false,
-        "proxy": false
-    }
+  {
+    "name": "ALF 24/7",
+    "uri": "http://tv.m3uts.xyz/stream/secure/AmHkKmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1BGD1AwV5K2Z1LGp5AGHmZzSuBQL2AmOsZN/28.m3u8",
+    "logo": "http://i.tvcluboficial.com/alf.png",
+    "drm_scheme": "",
+    "drm_license_uri": "",
+    "headers": {
+      "User-Agent": "Magma Player/10",
+      "X-App": "di",
+      "X-Version": "10/1.0.9",
+      "X-Did": "c5a795532aa86670",
+      "X-Hash": "Co5BA6OqY13N3ijBvpeyBcOBoS2X-EK10TKD8zaJ-eQtmypW-TO-8hYReHlZhjrkk4lv7ncg1N-84bzkjo3uMIuV6_rb7Z0g_1ctPRsH19_oZRU_MHgdLZbKvBkCftd8qRG4ypjEaMGiMIsugv-3P_-HvDrD0V49sxv4U4I_J-Yzlb7Zpc1dbCfg9tZVtyH_zPEyScQKevykub0PCoOhLSxalL0jgbSWRYrkDWIjw0uudLOKxdaaVnTzZblwuWMvojKMHfmuGN7ZTKnPJ-hhCguO00bF-qlSQTajeb4oqsL9L5shzL743naaAvIh-zUXyKVAemIuUVc7bwYpYPUe43-wL_u3x-ZDkOZq4xgXV5TQgK-FKevmk03jeDzspmplQivjRLb7erCG1FbUSuftB1CuHNT_prypISnWxYb5QGfifdZlnkTtI4YrF-rbUZQRPWRu5FCvHlyDniEH_4MVC6zEymk_QgbogQmsEOrginjDS0xOUEjG6t_74bH7QLo1",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity",
+      "Connection": "Keep-Alive"
+    },
+    "claroandina": false,
+    "proxy": false
+  }
 ]
