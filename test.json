@@ -28,18 +28,18 @@
         "drm_scheme": "",
         "drm_license_uri": "",
         "headers": {
-            "User-Agent": "Magma Player/10",
-            "X-App": "di",
-            "X-Version": "10/1.0.9",
-            "X-Did": "42a5f705b36c5d18",
-            "X-Hash": "mHr-Q8rVXiaDyGACy7YklRPeE2W-3Dx_AhTewR8Zume3PpxbMFFMGZif5rm7vJNfgy-5SoseHyEuFmn1ZhWisK1Y6Q0VA8xdY93GugYMp0V6wPIGgZX5eIg-GoxyedZdATalC4Bmsc0vpW7Je4zplW2TJ9bYUse-xcwf7uhpsthEi-nf0GM4_gzJihyzk57Kqe3I0SENLpYNt9YxNOqN8t-o8dd1v0EG5ePp8IM-V82bVr7AHf-lKSFbNNo69LHCKAzPJAc1VYx_DtQnauoA_YnPaiTN-5Gyr9MVLBYvE3rNL6LJHIiGESY9raHoyeK7uD9UQzUoD1b1liDGnx4yYJ49avUMxLr8E9qABKAjvm_MHpk4c2v8m-VBDzlzo-d8SV5723HbKh2caN9YHYlgR91MzbU3ANGfKTi23ZUlj68elKXEso684AiL_BRMtA0R2anzAnMpH0h8dE9YYG42mcLFHXyCDG83HRKqDkslYhDrdX6bfCAvXXipJ2_O9Rg1",
-            "Accept": "*/*",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
+          "User-Agent": "Magma Player/10",
+          "X-App": "di",
+          "X-Version": "10/1.0.9",
+          "X-Did": "42a5f705b36c5d18",
+          "X-Hash": "mHr-Q8rVXiaDyGACy7YklRPeE2W-3Dx_AhTewR8Zume3PpxbMFFMGZif5rm7vJNfgy-5SoseHyEuFmn1ZhWisK1Y6Q0VA8xdY93GugYMp0V6wPIGgZX5eIg-GoxyedZdATalC4Bmsc0vpW7Je4zplW2TJ9bYUse-xcwf7uhpsthEi-nf0GM4_gzJihyzk57Kqe3I0SENLpYNt9YxNOqN8t-o8dd1v0EG5ePp8IM-V82bVr7AHf-lKSFbNNo69LHCKAzPJAc1VYx_DtQnauoA_YnPaiTN-5Gyr9MVLBYvE3rNL6LJHIiGESY9raHoyeK7uD9UQzUoD1b1liDGnx4yYJ49avUMxLr8E9qABKAjvm_MHpk4c2v8m-VBDzlzo-d8SV5723HbKh2caN9YHYlgR91MzbU3ANGfKTi23ZUlj68elKXEso684AiL_BRMtA0R2anzAnMpH0h8dE9YYG42mcLFHXyCDG83HRKqDkslYhDrdX6bfCAvXXipJ2_O9Rg1",
+          "Accept": "*/*",
+          "Accept-Encoding": "identity",
+          "Connection": "Keep-Alive"
         },
         "claroandina": false,
         "proxy": false
-    }
+      }
     ]
   }
 ]
