@@ -4,7 +4,7 @@
     "samples": [
        {
         "name": "ALF 24/7 ",
-        "uri": "http://tv.m3uts.xyz/stream/secure/AwRlKmDmKmR0BF4kZmNhZGt3YwR1A18kAmp1BGD3BQZ5KmDlLGIzAmN1LwZ2LmIxZGusZN/43.m3u8",
+        "uri": "http://tv.m3uts.xyz/stream/secure/43.m3u8",
         "logo": "http://i.tvcluboficial.com/alf.png",
         "drm_scheme": "",
         "drm_license_uri": "",
@@ -22,8 +22,8 @@
         "proxy": false
     },
       {
-        "name": "h",
-        "uri": "http://tv.m3uts.xyz/stream/secure/BGN3KmH2ZS8kBQRhBGDhZwRjYwR3ZI8kAmp1BGL0AGVmK2SxATHmAmZ4LzDkBJV2MwusZN/560.m3u8",
+        "name": "h2",
+        "uri": "http://tv.m3uts.xyz/stream/secure/560.m3u8",
         "logo": "http://i.tvcluboficial.com/animaniacs.png",
         "drm_scheme": "",
         "drm_license_uri": "",
@@ -42,7 +42,7 @@
     },
        {
       "name": "BAYBLADE 24/7",
-      "uri": "http://tv.m3uts.xyz/stream/secure/AwD5Kmt1KmR0BF4kZmNhZGt3YwR1A18kAmp1BGD1Awt3K2MxLGIzBTAyZmWxAmx2ZJWsZN/85.m3u8",
+      "uri": "http://tv.m3uts.xyz/stream/secure/85.m3u8",
       "logo": "http://i.tvcluboficial.com/247.png",
       "drm_scheme": "",
       "drm_license_uri": "",
@@ -51,7 +51,7 @@
         "X-App": "di",
         "X-Version": "10/1.0.9",
         "X-Did": "fda5f8ce32d7961b",
-        "X-Hash": "vWLhFKVs0jeHO3pdLgvitzIhXC17UTcA47BC1ubEPqNsB3obGq1kkJ5_OHsX1Tn6xTxT3wabJEHwZJ6zaGLN_SzD1wnozk142lbxJEw4TJxaRCkTTLCzNBw7KH7VvBVDDdr_i-_WVT7R-chTec0ezgpHRNtiyzgzVAIAZioDcVajwQVQJxeFD4eVhLWqayQMWg5CDfROXJfKMZTFVr5B17UallWHZ_uy0GDB7m2Tq7OBJnBKxiF9pfcPtLRjB0TjVu0bu-UaBY-Jd2qWIs9Mx_SuEAVi_7ykhe_eKWCK1LHBDjxE0NFEY7n9uzyI6k_cyQ7btt-OdIC3ItuRrfE_I-y164dKsPv1DQFSu8b8KObgU3kncC4k4l4FJKLYnjRpgCLDpgtiZ2rRvsBdsnd4iey9TfrN3ieou94rHA4aWgP837tiwVCA7IqvSA3lml8WBYlwmtdEIvH29F_3XdsiZmB3O_zyXwi05CSwMHYn7hUAalqaN-F_bv_JYT9aAjiL",
+        "X-Hash": "",
         "Accept": "*/*",
         "Accept-Encoding": "identity",
         "Connection": "Keep-Alive"
