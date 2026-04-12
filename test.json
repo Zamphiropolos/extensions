@@ -96,7 +96,7 @@
     },
        {
       "name": "YouTube",
-      "uri": "https://m.youtube.com/@todonoticias",
+      "uri": "https://youtube.com/@todonoticias",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/500px-DAZN_1_Logo.svg.png",
       "drm_scheme": "WEBVIEW",
       "drm_license_uri": "",
