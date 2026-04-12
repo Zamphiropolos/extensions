@@ -2,25 +2,25 @@
   {
     "name": "Series 24/7",
     "samples": [
-      {
-        "name": "ALF 24/",
-        "uri": "http://tv.m3uts.xyz/stream/secure/AmHkKmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1BGD1AwV5K2Z1LGp5AGHmZzSuBQL2AmOsZN/28.m3u8",
-        "logo": "http://i.tvcluboficial.com/alf.png",
-        "drm_scheme": "",
-        "drm_license_uri": "",
-        "headers": {
-          "User-Agent": "Magma Player/10",
-          "X-App": "di",
-          "X-Version": "10/1.0.9",
-          "X-Did": "c5a795532aa86670",
-          "X-Hash": "_KDywasZaoWOsIHpzemiyLg3QvtO9ahN6sdp2ZpWOiyxmKdRDip_IiVJuxPy7JKZMjYFJWWTyEvABuwLED7BlD_qG51oo6qDzy4Tb0SpFxZCKQyiZCootqDzKqNTaSuolTgrDfOCpRXrX_qqc-2VrKBj7yFrcSmRwKqSbu_nYjE1FNTWRbA6IDuIWFdOEJbFkns_7hkbtvltDnFOCjp81i77ft7fIjdRvcCw7j3SI6eDQcrtmdfXlmfTnhiDQudCkBSI3WEevUSJq6cBgFeLAhMPCo1hw22cHaJdri4v1NFOo4ZYgb_4SSayiSMKrXGGOAtb_FMpY9o5VE2ANNrgG4QDm3wrCpKF5xyflUW9AdtX0INPAvKVfySSMtVHxYsVxZDOEqTdg5UBQJb9337XzdlGR6Wl1RYKXAUz37gzP26MCoOegQaIprUSd2jZXHkPdcI9GiO5WumKVNh07S9Y4Ldk2MUUpUp4qZgorcNP-zwnejF0Aj6rRPg0JMph1s3Z",
-          "Accept": "*/*",
-          "Accept-Encoding": "identity",
-          "Connection": "Keep-Alive"
-        },
-        "claroandina": false,
-        "proxy": false
+       {
+      "name": "ALF 24/7",
+      "uri": "http://tv.m3uts.xyz/stream/secure/BQZ3KmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1BGD1Awt1K2IyZmxkAzZ5AJMyMQAuL2SsZN/28.m3u8",
+      "logo": "http://i.tvcluboficial.com/alf.png",
+      "drm_scheme": "",
+      "drm_license_uri": "",
+      "headers": {
+        "User-Agent": "Magma Player/10",
+        "X-App": "di",
+        "X-Version": "10/1.0.9",
+        "X-Did": "ee3916c95fed3aca",
+        "X-Hash": "_KDywasZaoWOsIHpzemiyLg3QvtO9ahN6sdp2ZpWOiyxmKdRDip_IiVJuxPy7JKZMjYFJWWTyEvABuwLED7BlD_qG51oo6qDzy4Tb0SpFxZCKQyiZCootqDzKqNTaSuolTgrDfOCpRXrX_qqc-2VrKBj7yFrcSmRwKqSbu_nYjE1FNTWRbA6IDuIWFdOEJbFkns_7hkbtvltDnFOCjp81i77ft7fIjdRvcCw7j3SI6eDQcrtmdfXlmfTnhiDQudCkBSI3WEevUSJq6cBgFeLAhMPCo1hw22cHaJdri4v1NFOo4ZYgb_4SSayiSMKrXGGOAtb_FMpY9o5VE2ANNrgG4QDm3wrCpKF5xyflUW9AdtX0INPAvKVfySSMtVHxYsVxZDOEqTdg5UBQJb9337XzdlGR6Wl1RYKXAUz37gzP26MCoOegQaIprUSd2jZXHkPdcI9GiO5WumKVNh07S9Y4Ldk2MUUpUp4qZgorcNP-zwnejF0Aj6rRPg0JMph1s3Z",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity",
+        "Connection": "Keep-Alive"
       },
+      "claroandina": false,
+      "proxy": false
+    },
       {
         "name": "ANIMANIACS 24/7",
         "uri": "http://tv.m3uts.xyz/stream/secure/AwRlKmDmKmR0BF4kZmNhZGt3YwR1A18kAmp1BGD3BQZ5KmDlLGIzAmN1LwZ2LmIxZGusZN/43.m3u8",
