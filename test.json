@@ -3,7 +3,7 @@
     "name": "Series 24/7",
     "samples": [
        {
-        "name": "ALF 24/7a",
+        "name": "ALF 24/7",
         "uri": "http://tv.m3uts.xyz/stream/secure/ZGx4KmV4KmR0BF4kZmNhZGt3YwR1A18kAmp1BGH5AwVjK2SwMTZ1A2H2MwVlATDjLzIsZN/28.m3u8",
         "logo": "http://i.tvcluboficial.com/alf.png",
         "drm_scheme": "",
@@ -13,7 +13,7 @@
             "X-App": "di",
             "X-Version": "10/1.0.9",
             "X-Did": "acdc57e6f224d0be",
-            "X-Hash": "Z45oLNAQCRV7EtMZ_PB1rdxBfCvbvM6S5pqblby37s3Z_KpytlVPHr9VApDWpC3nERQoRUyuAjzzjA-BUdFERgydu9BQE2VLTeyGemlxnqZj9HvheKyxLsKfCdvUtp2VJDjpDqUJcbJr18CqnWMB9iGpi9VVvFxQFJFCeum4XeyWIi4a-mUpjIwRrTtxka4O_HwWnMyitVizd4oib5cFYppPBsLr36WJdJjWFqIX80tRd4hD3q56OpktdNXHlaRFjg9V2mq3R2qLYMFt_kqkGV_NfvIoj3eVsgEOMGL1cr-vQNYt4qdjWg2K3PBZRdw_dciZWNJcKfzPYbVgEj8YPascx-KDabtIsYsvuup4DkGsW2EbHyGBnmRDRIRRDpSCK9DR5mzcQGHBkva9sWYgON-SHF4gxFCXq4swqvU1GZO_NxzjxalFRcscbiHXHaCUaOSCHtnsoK3jfaaqoh4u1td3A3fZaHbvPtmuuatbKlxzSCmnBP_gRVKnVW-lc_Ax",
+            "X-Hash": "",
             "Accept": "*/*",
             "Accept-Encoding": "identity",
             "Connection": "Keep-Alive"
