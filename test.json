@@ -95,8 +95,8 @@
       "isJwPlayer": true
     },
        {
-      "name": "YouTube",
-      "uri": "https://youtube.com/@todonoticias",
+      "name": "YouTube2",
+      "uri":"https://www.youtube.com/watch?v=y8rJtTumIog",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/500px-DAZN_1_Logo.svg.png",
       "drm_scheme": "WEBVIEW",
       "drm_license_uri": "",
