@@ -23,7 +23,7 @@
     },
       {
         "name": "h2",
-        "uri": "http://tv.m3uts.xyz/stream/secure/560.m3u8",
+        "uri": "560",
         "logo": "http://i.tvcluboficial.com/animaniacs.png",
         "drm_scheme": "",
         "drm_license_uri": "",
@@ -42,7 +42,7 @@
     },
        {
       "name": "BAYBLADE 24/7",
-      "uri": "http://tv.m3uts.xyz/stream/secure/85.m3u8",
+      "uri": "85",
       "logo": "http://i.tvcluboficial.com/247.png",
       "drm_scheme": "",
       "drm_license_uri": "",
