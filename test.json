@@ -82,6 +82,17 @@
       },
       "claroandina": false,
       "proxy": false
+    },
+       {
+      "name": "DAZN 1",
+      "uri": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.html",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/500px-DAZN_1_Logo.svg.png",
+      "drm_scheme": "WEBVIEW",
+      "drm_license_uri": "",
+      "headers": [],
+      "claroandina": false,
+      "proxy": false,
+      "isJwPlayer": true
     }
     ]
   }
