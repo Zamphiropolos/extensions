@@ -1,5 +1,5 @@
 {
-  "versionName": "Telegram https://t.me/voi_systems",
-  "apkUrl": "https://app.femon.net/femonplus/update.json",
-  "mandatory": true
+  "versionName": "10.1",
+  "apkUrl": "https://app.femon.net/femonplus/descargas/femon_plus.apk",
+  "mandatory": false
 }
